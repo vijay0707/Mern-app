@@ -22,3 +22,4 @@ npm run server
 ```
 
 ## Demo
+https://mernprojectvijay.herokuapp.com/
